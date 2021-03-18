@@ -1,0 +1,17 @@
+1903970
+Sekar Andika Putri
+
+Saya Sekar Andika mengerjakan evaluasi Tugas Praktikum 2 dalam mata kuliah
+Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan
+seperti yang telah dispesifikasikan. Aamiin.
+
+Hal baru yang dipelajari :
+- Koneksi dengan database
+- Membuat design tampilan pada Apache Netbeans
+
+Fitur yang dikerjakan :
+- Memiliki 3 menu dengan panel dan berganti sesuai tombol navigasi
+- Koneksi ke Database
+- Menambahkan data ke database
+- Menampilkan data dari database
+- Menambahkan image pada menu info
